@@ -1,0 +1,14 @@
+.header
+{
+	position:absolute;
+	padding: 0;
+	margin: 0;
+}
+.center
+{
+	margin-top: 150px;
+}
+body
+{
+	background-color: blue;
+}

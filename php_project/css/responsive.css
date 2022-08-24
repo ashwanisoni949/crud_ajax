@@ -1,0 +1,28 @@
+ @media screen and (min-width: 0px) and (max-width: 700px){
+	.my-content,.txt-banner{
+		display: none;
+	}
+    .vid-content{
+    	top: 12%;
+    	left: 60%;
+    }
+    .custom-nav .custom-nav-item a{
+    	padding: 10px 20px;
+    	background-color: #225470;
+    }
+    .custom-nav-item:hover{
+    	background-color: none;
+    	border: 1px groove yellow;
+    }
+    .custom {
+    width: 600px;
+    margin: 30px auto;
+    }
+
+   .custom {
+    position: relative;
+    width: auto;
+    margin: 10px;
+   }
+
+}
